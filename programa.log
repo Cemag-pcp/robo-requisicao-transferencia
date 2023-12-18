@@ -1,0 +1,185 @@
+2023-12-18 09:12:30,605 - INFO - Iniciando selenium
+2023-12-18 09:16:47,063 - INFO - Iniciando selenium
+2023-12-18 09:17:00,003 - INFO - Navegando para o Estoque
+2023-12-18 09:17:03,389 - INFO - Navegando para o Requisi��o
+2023-12-18 09:17:06,899 - INFO - Navegando para Transfer�ncia
+2023-12-18 09:18:13,668 - INFO - Requisitando..
+2023-12-18 09:18:49,298 - INFO - Recurso
+2023-12-18 09:18:52,482 - INFO - Quantidade
+2023-12-18 09:19:10,910 - INFO - Insert
+2023-12-18 09:19:12,642 - INFO - Selecionando caixa
+2023-12-18 09:19:13,751 - INFO - Bot�o de gravar
+2023-12-18 09:19:21,117 - INFO - Erro: Erro na requisi��o
+2023-12-18 09:19:22,569 - INFO - Item: 610402 requisitado na quantidade: 1.0
+2023-12-18 09:19:30,470 - INFO - Requisitando..
+2023-12-18 09:20:04,854 - INFO - Recurso
+2023-12-18 09:20:08,060 - INFO - Quantidade
+2023-12-18 09:20:26,307 - INFO - Insert
+2023-12-18 09:20:27,993 - INFO - Selecionando caixa
+2023-12-18 09:20:29,131 - INFO - Bot�o de gravar
+2023-12-18 09:20:34,388 - INFO - Erro: Erro na requisi��o
+2023-12-18 09:20:35,638 - INFO - Item: 610402 requisitado na quantidade: 1.0
+2023-12-18 09:20:41,344 - INFO - Transferindo..
+2023-12-18 09:20:50,379 - INFO - Insert
+2023-12-18 09:20:50,964 - INFO - Classe
+2023-12-18 09:20:55,884 - INFO - Solicitante
+2023-12-18 09:20:58,582 - INFO - Dep�sito de origem
+2023-12-18 09:21:00,824 - INFO - Dep�sito de destino
+2023-12-18 09:21:02,993 - INFO - Recurso
+2023-12-18 09:21:03,065 - INFO - Lote
+2023-12-18 09:21:05,842 - INFO - Campo vazio
+2023-12-18 09:21:07,551 - INFO - Quantidade
+2023-12-18 09:21:09,655 - INFO - Insert
+2023-12-18 09:21:11,751 - INFO - Classe
+2023-12-18 09:21:12,858 - INFO - Sim
+2023-12-18 09:21:13,040 - INFO - Selecionando caixa
+2023-12-18 09:21:14,647 - INFO - Bot�o de aprovar
+2023-12-18 09:21:14,733 - INFO - Bot�o de aprovar
+2023-12-18 09:21:17,330 - INFO - Confirmando aprova��o
+2023-12-18 09:21:18,997 - INFO - Bot�o de baixar
+2023-12-18 09:21:25,908 - INFO - Movimenta��o
+2023-12-18 09:21:51,417 - INFO - Bot�o de gravar
+2023-12-18 09:21:51,507 - INFO - Bot�o de gravar
+2023-12-18 09:21:52,776 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 09:22:11,485 - INFO - Insert
+2023-12-18 09:22:12,085 - INFO - Classe
+2023-12-18 09:22:17,011 - INFO - Solicitante
+2023-12-18 09:22:19,748 - INFO - Dep�sito de origem
+2023-12-18 09:22:21,973 - INFO - Dep�sito de destino
+2023-12-18 09:22:24,154 - INFO - Recurso
+2023-12-18 09:22:24,219 - INFO - Lote
+2023-12-18 09:22:26,045 - INFO - Campo vazio
+2023-12-18 09:22:27,816 - INFO - Quantidade
+2023-12-18 09:22:29,893 - INFO - Insert
+2023-12-18 09:22:32,004 - INFO - Classe
+2023-12-18 09:22:33,128 - INFO - Sim
+2023-12-18 09:22:33,353 - INFO - Selecionando caixa
+2023-12-18 09:22:35,038 - INFO - Bot�o de aprovar
+2023-12-18 09:22:35,178 - INFO - Bot�o de aprovar
+2023-12-18 09:22:37,816 - INFO - Confirmando aprova��o
+2023-12-18 09:22:39,523 - INFO - Bot�o de baixar
+2023-12-18 09:22:46,506 - INFO - Movimenta��o
+2023-12-18 09:23:12,556 - INFO - Bot�o de gravar
+2023-12-18 09:23:13,984 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 09:29:27,943 - INFO - Transferindo..
+2023-12-18 09:29:37,225 - INFO - Insert
+2023-12-18 09:29:38,309 - INFO - Classe
+2023-12-18 09:29:43,173 - INFO - Solicitante
+2023-12-18 09:29:45,913 - INFO - Dep�sito de origem
+2023-12-18 09:29:48,128 - INFO - Dep�sito de destino
+2023-12-18 09:29:50,333 - INFO - Recurso
+2023-12-18 09:29:50,383 - INFO - Lote
+2023-12-18 09:29:52,211 - INFO - Campo vazio
+2023-12-18 09:29:53,993 - INFO - Quantidade
+2023-12-18 09:29:56,080 - INFO - Insert
+2023-12-18 09:29:57,707 - INFO - Classe
+2023-12-18 09:29:58,859 - INFO - Sim
+2023-12-18 09:29:59,016 - INFO - Selecionando caixa
+2023-12-18 09:30:00,642 - INFO - Bot�o de aprovar
+2023-12-18 09:30:00,744 - INFO - Bot�o de aprovar
+2023-12-18 09:30:03,384 - INFO - Confirmando aprova��o
+2023-12-18 09:30:05,037 - INFO - Bot�o de baixar
+2023-12-18 09:30:11,922 - INFO - Movimenta��o
+2023-12-18 09:30:37,426 - INFO - Bot�o de gravar
+2023-12-18 09:30:37,478 - INFO - Bot�o de gravar
+2023-12-18 09:30:38,658 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 13:44:05,453 - INFO - Iniciando selenium
+2023-12-18 13:44:18,375 - INFO - Navegando para o Estoque
+2023-12-18 13:44:21,623 - INFO - Navegando para o Requisi��o
+2023-12-18 13:44:24,935 - INFO - Navegando para Transfer�ncia
+2023-12-18 13:44:42,956 - INFO - Requisitando..
+2023-12-18 13:45:18,923 - INFO - Recurso
+2023-12-18 13:45:22,116 - INFO - Quantidade
+2023-12-18 13:45:40,627 - INFO - Insert
+2023-12-18 13:45:42,365 - INFO - Selecionando caixa
+2023-12-18 13:45:43,508 - INFO - Bot�o de gravar
+2023-12-18 13:45:50,424 - INFO - Item requisitado!
+2023-12-18 13:45:51,786 - INFO - Item: 610402 requisitado na quantidade: 1.0
+2023-12-18 13:45:59,997 - INFO - Requisitando..
+2023-12-18 13:46:34,900 - INFO - Recurso
+2023-12-18 13:46:38,117 - INFO - Quantidade
+2023-12-18 13:46:56,742 - INFO - Insert
+2023-12-18 13:46:58,463 - INFO - Selecionando caixa
+2023-12-18 13:46:59,598 - INFO - Bot�o de gravar
+2023-12-18 13:47:05,382 - INFO - Item requisitado!
+2023-12-18 13:47:06,528 - INFO - Item: 610402 requisitado na quantidade: 1.0
+2023-12-18 13:47:12,220 - INFO - Transferindo..
+2023-12-18 13:47:21,278 - INFO - Insert
+2023-12-18 13:47:21,855 - INFO - Classe
+2023-12-18 13:47:26,831 - INFO - Solicitante
+2023-12-18 13:47:29,545 - INFO - Dep�sito de origem
+2023-12-18 13:47:31,785 - INFO - Dep�sito de destino
+2023-12-18 13:47:33,926 - INFO - Recurso
+2023-12-18 13:47:33,980 - INFO - Lote
+2023-12-18 13:47:35,705 - INFO - Campo vazio
+2023-12-18 13:47:37,411 - INFO - Quantidade
+2023-12-18 13:47:39,508 - INFO - Insert
+2023-12-18 13:47:41,131 - INFO - Classe
+2023-12-18 13:47:42,304 - INFO - Sim
+2023-12-18 13:47:42,532 - INFO - Selecionando caixa
+2023-12-18 13:47:44,164 - INFO - Bot�o de aprovar
+2023-12-18 13:47:44,304 - INFO - Bot�o de aprovar
+2023-12-18 13:47:46,901 - INFO - Confirmando aprova��o
+2023-12-18 13:47:48,607 - INFO - Bot�o de baixar
+2023-12-18 13:47:55,538 - INFO - Movimenta��o
+2023-12-18 13:48:21,181 - INFO - Bot�o de gravar
+2023-12-18 13:48:21,244 - INFO - Bot�o de gravar
+2023-12-18 13:48:22,579 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 13:48:41,713 - INFO - Insert
+2023-12-18 13:48:42,350 - INFO - Classe
+2023-12-18 13:48:47,284 - INFO - Solicitante
+2023-12-18 13:48:50,033 - INFO - Dep�sito de origem
+2023-12-18 13:48:52,294 - INFO - Dep�sito de destino
+2023-12-18 13:48:54,525 - INFO - Recurso
+2023-12-18 13:48:54,604 - INFO - Lote
+2023-12-18 13:48:56,445 - INFO - Campo vazio
+2023-12-18 13:48:58,197 - INFO - Quantidade
+2023-12-18 13:49:00,281 - INFO - Insert
+2023-12-18 13:49:02,386 - INFO - Classe
+2023-12-18 13:49:03,518 - INFO - Sim
+2023-12-18 13:49:03,703 - INFO - Selecionando caixa
+2023-12-18 13:49:05,371 - INFO - Bot�o de aprovar
+2023-12-18 13:49:05,480 - INFO - Bot�o de aprovar
+2023-12-18 13:49:08,092 - INFO - Confirmando aprova��o
+2023-12-18 13:49:09,776 - INFO - Bot�o de baixar
+2023-12-18 13:49:16,655 - INFO - Movimenta��o
+2023-12-18 13:49:43,449 - INFO - Bot�o de gravar
+2023-12-18 13:49:43,507 - INFO - Bot�o de gravar
+2023-12-18 13:49:44,826 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 13:50:27,241 - INFO - Requisitando..
+2023-12-18 13:51:02,502 - INFO - Recurso
+2023-12-18 13:51:05,779 - INFO - Quantidade
+2023-12-18 13:51:25,047 - INFO - Insert
+2023-12-18 13:51:26,799 - INFO - Selecionando caixa
+2023-12-18 13:51:27,950 - INFO - Bot�o de gravar
+2023-12-18 13:51:33,833 - INFO - Item requisitado!
+2023-12-18 13:51:35,158 - INFO - Item: 610402 requisitado na quantidade: 1.0
+2023-12-18 13:51:42,968 - INFO - Transferindo..
+2023-12-18 13:51:52,250 - INFO - Insert
+2023-12-18 13:51:53,423 - INFO - Classe
+2023-12-18 13:51:58,625 - INFO - Solicitante
+2023-12-18 13:52:01,374 - INFO - Dep�sito de origem
+2023-12-18 13:52:03,631 - INFO - Dep�sito de destino
+2023-12-18 13:52:05,874 - INFO - Recurso
+2023-12-18 13:52:05,988 - INFO - Lote
+2023-12-18 13:52:07,823 - INFO - Campo vazio
+2023-12-18 13:52:09,589 - INFO - Quantidade
+2023-12-18 13:52:11,721 - INFO - Insert
+2023-12-18 13:52:13,915 - INFO - Classe
+2023-12-18 13:52:15,065 - INFO - Sim
+2023-12-18 13:52:15,288 - INFO - Selecionando caixa
+2023-12-18 13:52:16,982 - INFO - Bot�o de aprovar
+2023-12-18 13:52:17,063 - INFO - Bot�o de aprovar
+2023-12-18 13:52:19,716 - INFO - Confirmando aprova��o
+2023-12-18 13:52:21,489 - INFO - Bot�o de baixar
+2023-12-18 13:52:28,521 - INFO - Movimenta��o
+2023-12-18 13:52:54,562 - INFO - Bot�o de gravar
+2023-12-18 13:52:55,872 - INFO - Item: 120200 requisitado na quantidade: 1.0
+2023-12-18 13:53:47,479 - INFO - Requisitando..
+2023-12-18 13:54:22,127 - INFO - Recurso
+2023-12-18 13:54:25,350 - INFO - Quantidade
+2023-12-18 13:54:44,034 - INFO - Insert
+2023-12-18 13:54:45,761 - INFO - Selecionando caixa
+2023-12-18 13:54:46,927 - INFO - Bot�o de gravar
+2023-12-18 13:54:51,838 - INFO - Item requisitado!
+2023-12-18 13:54:53,121 - INFO - Item: 702057 requisitado na quantidade: 10.0
